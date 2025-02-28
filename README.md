@@ -21,4 +21,4 @@ The Tableau dashboard presents:
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/NYC-311-Tableau-Analysis.git
+   git clone https://github.com/kukashot/NYC-311-Tableau-Analysis.git
